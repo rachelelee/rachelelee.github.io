@@ -2216,10 +2216,10 @@ p.logged-in-as a:hover {
 	padding: 10px; width: 50%; float: left;
 	}
 .figure-box figure {
-	position: relative; padding: 0px; margin: 0; background: #222; overflow: hidden; -webkit-transform-style: preserve-3d;-moz-transform-style: preserve-3d; transform-style: preserve-3d;
+	position: relative; padding: 0px; margin: 0; background: #fff; overflow: hidden; -webkit-transform-style: preserve-3d;-moz-transform-style: preserve-3d; transform-style: preserve-3d;
 	}
 .figure-box figure a:not(.figure-link) {
-	display: block; padding-top: 86%; opacity: .8; overflow: hidden; background-size: cover; -webkit-transition: all 0.4s ease 0s; transition: all 0.4s ease 0s;
+	display: block; padding-top: 86%; opacity: 1; overflow: hidden; background-size: cover; -webkit-transition: all 0.4s ease 0s; transition: all 0.4s ease 0s;
 	}
 .intro figure a img {
 	display: none;
